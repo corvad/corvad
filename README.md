@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @corvad
+- 👋 Hi, I’m @corvad (David Cor.)
 - 👀 I’m interested in ... computers
 - 🌱 I’m currently learning ... Java
 
