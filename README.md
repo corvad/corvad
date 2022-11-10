@@ -1,4 +1,4 @@
-- Hi, I’m @corvad (David Cor.)
+- Hi, I’m @corvad (David Cor.) otherwise know as DAC
 - I’m interested in ... computers
 - I’m currently learning ... Java and C++
 
