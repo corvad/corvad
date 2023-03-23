@@ -1,4 +1,5 @@
 - Hi, I’m @corvad (David Corvaglia) otherwise know as DAC
+- I'm a junior at Clear Springs High School
 - I’m interested in ... computer science and cyber security
 - I'm GIAC GFACT Certified
 - I'm enjoy CyberStart America, National Cyber League, and CyberPatriot
