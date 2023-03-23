@@ -1,5 +1,7 @@
 - Hi, I’m @corvad (David Corvaglia) otherwise know as DAC
-- I’m interested in ... computer science and cybersecurity
+- I’m interested in ... computer science and cyber security
+- I'm GIAC GFACT Certified
+- I'm enjoy CyberStart America, National Cyber League, and CyberPatriot
 - I’m currently learning ... Java, C++, and Web Dev
 - I'm a ... violinist
 - I'm the lead ... software developer for @cshsboltbots (a 2 time VEX worlds advancing team)
