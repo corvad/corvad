@@ -1,8 +1,6 @@
-- Hi, I’m @corvad (David Cor.) otherwise know as DAC
-- I’m interested in ... computers
-- I’m currently learning ... Java and C++
-
-<!---
-corvad/corvad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m @corvad (David Corvaglia) otherwise know as DAC
+- I’m interested in ... computer science and cybersecurity
+- I’m currently learning ... Java, C++, and Web Dev
+- I'm a ... violinist
+- I'm the lead ... software developer for @cshsboltbots (a 2 time VEX worlds advancing team)
+- I'm the web master for ... cshsboltbots.org (a website coded by myself entirly in vanilla html w/ TailwindCSS + DaisyUI to promote CSHS Bolt Bots)
