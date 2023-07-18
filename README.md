@@ -5,5 +5,5 @@
 - I'm enjoy ... CyberStart America, National Cyber League, and CyberPatriot
 - I’m currently learning ... Java, C++, Python, and Web Dev
 - I'm a ... violinist
-- I'm the lead ... software developer for @cshsboltbots (a 2 time VEX worlds advancing team)
-- I'm the web master for ... cshsboltbots.org (a website coded entirly in vanilla html w/ TailwindCSS + DaisyUI to promote CSHS Bolt Bots)
+- I'm the lead ... software developer for [CSHS Bolt Bots](https://github.com/cshsboltbots).(a 2 time VEX worlds advancing team)
+- I'm the web master and website creator for ... cshsboltbots.org (a website coded entirly in vanilla html w/ TailwindCSS + DaisyUI to promote CSHS Bolt Bots)
