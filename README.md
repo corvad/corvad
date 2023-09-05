@@ -1,9 +1,10 @@
-- Hi, I’m @corvad (David Corvaglia) otherwise know as DAC
-- I'm a ... junior at Clear Springs High School
-- I’m interested in ... computer science and cyber security
+- Hi, I’m @corvad (David Corvaglia)
+- I'm a ... senior at Clear Springs High School
+- I'm interested in ... computer science and cyber security
 - I'm ... GIAC GFACT Certified
-- I'm enjoy ... CyberStart America, National Cyber League, and CyberPatriot
-- I’m currently learning ... Java, C++, Python, and Web Dev
+- I'm ... GIAC GSEC Certified
+- I'm enjoying ... CyberStart America, National Cyber League, and CyberPatriot
+- I'm currently learning ... Java, C++, Python, and Web Dev
 - I'm a ... violinist
 - I'm the lead ... software developer for [CSHS Bolt Bots](https://github.com/cshsboltbots). (a 2 time VEX worlds advancing team)
 - I'm the web master and website creator for ... cshsboltbots.org (a website coded entirly in vanilla html w/ TailwindCSS + DaisyUI to promote CSHS Bolt Bots)
