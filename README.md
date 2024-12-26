@@ -1,5 +1,5 @@
 - Hi, I’m @corvad (David Corvaglia)
-- I'm a ... senior at Clear Springs High School
+- I'm a ... freshman at Texas A&M University - College Station
 - I'm interested in ... computer science and cyber security
 - I'm ... GIAC GFACT Certified
 - I'm ... GIAC GSEC Certified
