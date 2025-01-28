@@ -7,5 +7,5 @@
 - I'm currently learning ... C/C++
 - I'm a ... violinist
 # Some Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=corvad&hide_progress=false)
-![corvad's GitHub stats](https://github-readme-stats.vercel.app/api?username=corvad)
+![Top Langs](https://vercelgithubstarts.vercel.app/api/top-langs/?username=corvad&hide_progress=false)
+![corvad's GitHub stats](https://vercelgithubstarts.vercel.app/api?username=corvad)
