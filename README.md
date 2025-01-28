@@ -6,6 +6,3 @@
 - I'm enjoying ... National Cyber League
 - I'm currently learning ... C/C++
 - I'm a ... violinist
-# Some Stats
-![Top Langs](https://vercelgithubstarts.vercel.app/api/top-langs/?username=corvad&hide_progress=false)
-![corvad's GitHub stats](https://vercelgithubstarts.vercel.app/api?username=corvad)
