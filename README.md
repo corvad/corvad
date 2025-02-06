@@ -1,9 +1,3 @@
 - Hi, I’m @corvad (David Corvaglia)
-- I'm a ... freshman at Texas A&M University - College Station
-- I'm interested in ... computer science and cyber security
-- I'm ... GIAC GFACT Certified
-- I'm ... GIAC GSEC Certified
-- I'm enjoying ... National Cyber League
-- I'm currently learning ... C/C++
-- I'm a ... violinist
-- And most recently Incoming @google
+- I'm Incoming [@Google](https://github.com/google)
+- My Website [corvaglia.dev](https://www.corvaglia.dev)
