@@ -1,3 +1,3 @@
 - Hi, I’m @corvad (David Corvaglia)
-- I'm Incoming [@Google](https://github.com/google)
+- I work at [@Google](https://github.com/google)
 - My Website [corvaglia.dev](https://www.corvaglia.dev)
