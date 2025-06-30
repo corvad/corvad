@@ -1,3 +1,3 @@
 - Hi, I’m @corvad (David Corvaglia)
-- I work at [@Google](https://github.com/google)
+- I work [@Google](https://github.com/google) supporting Fuchsia, a new operating system.
 - My Website [corvaglia.dev](https://www.corvaglia.dev)
