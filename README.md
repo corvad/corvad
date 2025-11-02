@@ -1,3 +1,3 @@
 - Hi, I’m @corvad (David Corvaglia)
-- I've intered [@Google](https://github.com/google) supporting the [Fuchsia](https://fuchsia.dev) operating system.
+- I've interned [@Google](https://github.com/google) supporting the [Fuchsia](https://fuchsia.dev) operating system.
 - My Website [corvaglia.dev](https://www.corvaglia.dev)
