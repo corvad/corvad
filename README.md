@@ -1,4 +1,4 @@
 - Hi, I’m corvad (David Corvaglia)
-- I'm a sophmore computer scientist who has a passion for cyber and systems.
+- I'm a sophomore computer scientist who has a passion for cyber and systems.
 - I've interned [@Google](https://github.com/google) supporting the [Fuchsia](https://fuchsia.dev) operating system and at [@NASA](https://github.com/nasa) supporting experimental robotics.
 - My Website [corvaglia.dev](https://www.corvaglia.dev)
