@@ -1,3 +1,3 @@
 - Hi, I’m @corvad (David Corvaglia)
-- I've interned [@Google](https://github.com/google) supporting the [Fuchsia](https://fuchsia.dev) operating system and at [@Google](https://github.com/nasa) supporting experimental robotics.
+- I've interned [@Google](https://github.com/google) supporting the [Fuchsia](https://fuchsia.dev) operating system and at [@NASA](https://github.com/nasa) supporting experimental robotics.
 - My Website [corvaglia.dev](https://www.corvaglia.dev)
