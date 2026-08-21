@@ -1,5 +1,5 @@
 - Hi, I’m David Corvaglia.
-- I'm a sophomore computer scientist who has a passion for cyber and systems.
+- I'm a sophomore computer scientist who has a passion for systems, infrastructure, and cybersecurity.
 - Incoming Software Engineer Intern [@Microsoft](https://microsoft.com).
-- I've interned [@Google](https://github.com/google) supporting the [Fuchsia](https://fuchsia.dev) operating system and at [@NASA](https://github.com/nasa) supporting experimental robotics.
-- My Website [corvaglia.dev](https://www.corvaglia.dev)
+- I've interned [@Microsoft](https://github.com/microsoft) on Azure Local Disconnected Operations data, at [@Google](https://github.com/google) supporting the [Fuchsia](https://fuchsia.dev) operating system, and at [@NASA](https://github.com/nasa) working on experimental robotics.
+- My Website [corvaglia.dev](https://corvaglia.dev)
